@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="sql" src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png" width="110px">
+  <img alt="sql" src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1637761526~hmac=034165f295ec4c492698fd42c0ee1222" width="110px">
 </p>
 
 <h4>SQL course with MySQL.</h4>
