@@ -1,7 +1,7 @@
 -- para trazer os registros da tabela que está mais a direita,
 -- independente se tem relacionamento com os registros da tabela à esquerda
-select x.column, y.column from table_1_name as x, table_2_name as y
-right join table_2_name y
+select x.column, y.column from table_1_name as x
+right join table_2_name as y
 on x.column = y.column;
 
 -- exemplo
