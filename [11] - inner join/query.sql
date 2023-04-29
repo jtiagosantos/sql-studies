@@ -1,6 +1,6 @@
 -- para selecionar múltiplas tabelas ao mesmo tempo(outro método)
-select x.column, y.column from table_1_name as x, table_2_name as y
-inner join table_2_name y
+select x.column, y.column from table_1_name as x,
+inner join table_2_name as y
 on x.column = y.column;
 
 -- exemplo
